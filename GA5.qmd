@@ -1,0 +1,69 @@
+---
+title: "GA4 Certification Reflection and Readiness Check"
+author: "Asif Kachroo"
+date: "2026-03-13"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-fold: false
+    embed-resources: true
+editor: visual
+execute:
+  warning: false
+  error: false
+---
+
+# Overview
+
+This report documents my Google Analytics 4 certification attempt, reflects on my results, and connects what I learned to my Culminating Experience Project (CEP).
+
+# 1. Proof of Completion
+
+## Certification Evidence
+
+![](images/clipboard-2417281648.png)
+
+# 2. Exam Reflection
+
+## Results Summary
+
+I passed the Google Analytics 4 Certification exam. Overall, the exam showed that I understand the general structure of GA4, how reports and explorations are used, and how analytics supports business decision-making. At the same time, it also showed me that I need to be more precise when choosing the correct report, interpretation method, or setup decision for a specific business question.
+
+## Top 3 Most Challenging Topics
+
+-   **Attribution and channel interpretation**\
+    I found it challenging to keep straight how traffic sources, attribution logic, and conversion credit work together when evaluating marketing performance.
+
+-   **Explorations vs. standard reports**\
+    Some questions required knowing when a regular report is enough and when an exploration would be better for deeper analysis.
+
+-   **Property setup and measurement strategy**\
+    I realized I need to be sharper on choosing the best setup decisions so the data collected actually matches the business objective.
+
+## Two Questions I Wish I Could Redo
+
+-   One question I would want to redo involved the **best way to analyze a user journey or conversion path**. I understood the general goal, but I second guessed which GA4 feature would give the clearest answer.
+-   Another question I would want to redo involved **matching a business objective to the right metric or report**. Looking back, I think I overcomplicated it instead of focusing on the most direct KPI.
+
+## CEP Connection
+
+One concrete change I will make in my CEP measurement and analysis plan is to define **one primary KPI and one supporting report/exploration before doing any analysis**. Instead of collecting too many metrics at once, I will focus on a clearer measurement structure. For example, I will identify the main outcome I want to improve, then pair it with a supporting report or exploration that explains *why* performance is happening. This will make my final analysis more organized, easier to defend, and more useful for decision-making.
+
+# 3. GA4 Readiness Check KPI and Supporting Report / Exploration
+
+![](images/clipboard-3489194920.png)
+
+**Chosen KPI:** Total Revenue\
+**Supporting Report:** Traffic Acquisition – Session Primary Channel Group
+
+The KPI I selected is **total revenue**, which measures how much money the website generates from users. This metric directly connects to business performance and shows whether marketing and website activity are actually driving sales.
+
+The supporting report I chose is the **Traffic Acquisition report**, which shows where website sessions come from across channels such as Direct, Organic Search, Email, Paid Search, and Cross-network campaigns. In the screenshot, Direct traffic produces the largest share of sessions and revenue, while channels like Organic Search and Referral also contribute significantly.
+
+This report supports my project goal because it allows me to identify **which marketing channels are bringing in the most engaged users and revenue**. For example, Organic Search generates strong engagement and revenue contributions, while Direct traffic drives the highest volume of sessions. By analyzing these channels, I can determine which acquisition strategies are most effective and where improvements or additional investment could increase overall performance.
+
+# 4. Final Takeaway
+
+Completing this certification process helped me better understand how GA4 connects measurement to business goals. It also showed me that good analytics is not just about reading numbers, but about selecting the right KPI, using the right report, and making decisions based on evidence.
